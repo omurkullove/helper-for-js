@@ -1,0 +1,16 @@
+// let a = 60;
+// let b = 60;
+// let c = a * b;
+// let d = 24;
+// let e = c * d;
+// let f = 365;
+// let g = e * f;
+// let k = g * 16;
+// console.log(k);
+// let a = 10;
+// a *= 10;
+// a -= 20;
+// console.log(a);
+let a = "Hello";
+let b = "Nick";
+console.log(a + b);
